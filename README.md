@@ -2,7 +2,7 @@
 ##############################################
 
 groupe: 
-Sofiya RUGA 
-Nathan VILLIERS 
-Arthur Ponchelet 
+Sofiya RUGA ,
+Nathan VILLIERS ,
+Arthur Ponchelet ,
 Cédric LESBATS 
